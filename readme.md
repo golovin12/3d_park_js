@@ -15,3 +15,5 @@ npm run dev
 # Build for production in the dist/ directory
 npm run build
 ```
+## Внешний вид приложения:
+![Alt text](/park.png?raw=true "Внешний вид приложения")
