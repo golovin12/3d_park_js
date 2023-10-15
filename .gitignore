@@ -1,4 +1,6 @@
 ﻿*~
+.git
 .idea
 04-webpack.rar
 node_modules
+package-lock.json
